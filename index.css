@@ -1,0 +1,20 @@
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px groove #777;
+}
+
+div.gallery img {
+    width: 100%;
+    heigtht: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
